@@ -1,3 +1,7 @@
+//-------------------------------------------
+// Node.js module for accessing Veeva Vault
+//-------------------------------------------
+
 exports.login = login;
 exports.query = query;
 exports.createConnection = createConnection;
